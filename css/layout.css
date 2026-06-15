@@ -62,17 +62,9 @@ body.page-home .header.scrolled .nav-link {
 }
 
 .logo-img {
-  height: 36px;
-  width: auto;
+  height: 40px;
+  width: 40px;
   object-fit: contain;
-}
-
-body.page-home .header:not(.scrolled) .logo-img {
-  filter: brightness(0) invert(1);
-}
-
-body.page-home .header.scrolled .logo-img {
-  filter: none;
 }
 
 .footer-logo {

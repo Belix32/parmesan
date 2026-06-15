@@ -3,7 +3,7 @@ const COMPONENTS = {
     <header class="header" id="header">
       <div class="header-inner">
         <a href="index.html" class="logo">
-          <img src="images/brand/logo.png" alt="Пармезан" class="logo-img" width="120" height="40">
+          <img src="images/brand/logo.png" alt="Пармезан" class="logo-img" width="40" height="40">
         </a>
         <button class="menu-toggle" aria-label="Меню">
           <span></span><span></span><span></span>
