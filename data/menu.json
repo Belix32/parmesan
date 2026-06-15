@@ -1,0 +1,1185 @@
+{
+  "categories": [
+    {
+      "name": "Неаполитанская пицца",
+      "slug": "pizza",
+      "subcategories": [
+        {
+          "name": "",
+          "items": [
+            {
+              "name": "4 сыра",
+              "description": "Сливочный соус, моцарелла, горгонзола, чеддер, пармезан",
+              "price": 650,
+              "weight": "540 г",
+              "tags": [
+                "recommended"
+              ],
+              "image": "images/products/4-syra.jpg",
+              "slug": "4-syra"
+            },
+            {
+              "name": "Груша-Горгонзола",
+              "description": "Сливочный соус, моцарелла, груша, горгонзола, мед, миндальные лепестки",
+              "price": 690,
+              "weight": "540 г",
+              "tags": [],
+              "image": "images/products/grusha-gorgonzola.jpg",
+              "slug": "grusha-gorgonzola"
+            },
+            {
+              "name": "Маргарита",
+              "description": "Соус пилати, моцарелла, орегано, песто",
+              "price": 540,
+              "weight": "500 г",
+              "tags": [],
+              "image": "images/products/margarita.jpg",
+              "slug": "margarita"
+            },
+            {
+              "name": "Панчетта",
+              "description": "Соус белый, моцарелла, грудинка, пеперони, шампиньоны, трюфельное масло",
+              "price": 660,
+              "weight": "550 г",
+              "tags": [
+                "recommended"
+              ],
+              "image": "images/products/panchetta.jpg",
+              "slug": "panchetta"
+            },
+            {
+              "name": "Пеперони",
+              "description": "Соус пилати, моцарелла, пеперони, соус барбекю",
+              "price": 630,
+              "weight": "550 г",
+              "tags": [
+                "recommended"
+              ],
+              "image": "images/products/peperoni.jpg",
+              "slug": "peperoni"
+            },
+            {
+              "name": "Пицца Гавайская",
+              "description": "Курица копчёная, ананас, белый соус, моцарелла, чеддер",
+              "price": 680,
+              "weight": "570 г",
+              "tags": [],
+              "image": "images/products/pitstsa-gavayskaya.jpg",
+              "slug": "pitstsa-gavayskaya"
+            },
+            {
+              "name": "Пицца Диабло",
+              "description": "Острые колбаски, бекон, перец сладкий, халапеньо, лук красный, соус барбекю",
+              "price": 690,
+              "weight": "560 г",
+              "tags": [
+                "spicy"
+              ],
+              "image": "images/products/pitstsa-diablo.jpg",
+              "slug": "pitstsa-diablo"
+            },
+            {
+              "name": "Пицца Карбонара",
+              "description": "Сливочный соус, бекон, моцарелла, пармезан",
+              "price": 650,
+              "weight": "530 г",
+              "tags": [
+                "recommended"
+              ],
+              "image": "images/products/pitstsa-karbonara.jpg",
+              "slug": "pitstsa-karbonara"
+            },
+            {
+              "name": "Пицца Мясная",
+              "description": "Соус пилати, карбонад, курица, бекон, моцарелла, жареный лук, соус барбекю, вяленые томаты",
+              "price": 690,
+              "weight": "550 г",
+              "tags": [
+                "recommended"
+              ],
+              "image": "images/products/pitstsa-myasnaya.jpeg",
+              "slug": "pitstsa-myasnaya"
+            },
+            {
+              "name": "Пицца с ветчиной и сыром",
+              "description": "Соус пилати, ветчина, моцарелла",
+              "price": 580,
+              "weight": "500 г",
+              "tags": [
+                "recommended"
+              ],
+              "image": "images/products/pitstsa-s-vetchinoy-i-syrom.jpg",
+              "slug": "pitstsa-s-vetchinoy-i-syrom"
+            },
+            {
+              "name": "Пицца с индейкой и беконом",
+              "description": "Соус пилати, бекон, пастрами из индейки, маринованный огурец, лук фри, моцарелла",
+              "price": 670,
+              "weight": "560 г",
+              "tags": [
+                "recommended"
+              ],
+              "image": "images/products/pitstsa-s-indeykoy-i-bekonom.jpg",
+              "slug": "pitstsa-s-indeykoy-i-bekonom"
+            },
+            {
+              "name": "Пицца с индейкой, страчателлой и песто",
+              "description": "Сливочный соус, моцарелла, пастрами из индейки, томаты, страчателла, песто",
+              "price": 690,
+              "weight": "580 г",
+              "tags": [
+                "recommended"
+              ],
+              "image": "images/products/pitstsa-s-indeykoy-strachatelloy-i-pesto.jpg",
+              "slug": "pitstsa-s-indeykoy-strachatelloy-i-pesto"
+            },
+            {
+              "name": "Пицца с морепродуктами",
+              "description": "Сливочный соус, креветка коктейльная, креветка тигровая, мясо мидий, моцарелла, соус унаги",
+              "price": 850,
+              "weight": "560 г",
+              "tags": [],
+              "image": "images/products/pitstsa-s-moreproduktami.jpg",
+              "slug": "pitstsa-s-moreproduktami"
+            },
+            {
+              "name": "Пицца Сальмон",
+              "description": "Соус белый, семга слабосолёная, черри, песто, творожно-сливочный сыр",
+              "price": 820,
+              "weight": "550 г",
+              "tags": [],
+              "image": "images/products/pitstsa-salmon.jpg",
+              "slug": "pitstsa-salmon"
+            },
+            {
+              "name": "Пицца Том-ям",
+              "description": "Соус том-ям, моцарелла, креветка тигровая, коктейльные мидии, шампиньоны, черри, лайм",
+              "price": 850,
+              "weight": "560 г",
+              "tags": [],
+              "image": "images/products/pitstsa-tom-yam.jpg",
+              "slug": "pitstsa-tom-yam"
+            },
+            {
+              "name": "Фокачча с вялеными томатами",
+              "description": "Фокачча с вялеными томатами и пармезаном",
+              "price": 230,
+              "weight": "160 г",
+              "tags": [],
+              "image": "images/products/fokachcha-s-vyalenymi-tomatami.jpg",
+              "slug": "fokachcha-s-vyalenymi-tomatami"
+            },
+            {
+              "name": "Фокачча с прованскими травами",
+              "description": "Фокачча с прованскими травами, оливковым маслом и пармезаном",
+              "price": 190,
+              "weight": "150 г",
+              "tags": [],
+              "image": "images/products/fokachcha-s-provanskimi-travami.jpg",
+              "slug": "fokachcha-s-provanskimi-travami"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Завтраки",
+      "slug": "breakfast",
+      "subcategories": [
+        {
+          "name": "",
+          "items": [
+            {
+              "name": "Ленивые вареники с кокосовым соусом и соусом маракуйя",
+              "description": "",
+              "price": 430,
+              "weight": "250 г",
+              "tags": [
+                "new"
+              ],
+              "image": "images/products/lenivye-vareniki-s-kokosovym-sousom-i-sousom-marakuyya.jpg",
+              "slug": "lenivye-vareniki-s-kokosovym-sousom-i-sousom-marakuyya"
+            },
+            {
+              "name": "Скрембл с авокадо и пармезаном",
+              "description": "",
+              "price": 320,
+              "weight": "200 г",
+              "tags": [
+                "recommended"
+              ],
+              "image": "images/products/skrembl-s-avokado-i-parmezanom.jpg",
+              "slug": "skrembl-s-avokado-i-parmezanom"
+            },
+            {
+              "name": "Томлёные сырники в белом соусе",
+              "description": "",
+              "price": 380,
+              "weight": "250 г",
+              "tags": [],
+              "image": "images/products/tomlenye-syrniki-v-belom-souse.jpg",
+              "slug": "tomlenye-syrniki-v-belom-souse"
+            },
+            {
+              "name": "Яичница с томатами",
+              "description": "С творожно-сливочным сыром",
+              "price": 290,
+              "weight": "180 г",
+              "tags": [],
+              "image": "images/products/yaichnitsa-s-tomatami.jpg",
+              "slug": "yaichnitsa-s-tomatami"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Салаты",
+      "slug": "salads",
+      "subcategories": [
+        {
+          "name": "",
+          "items": [
+            {
+              "name": "Баклажаны с томатами и страчателлой",
+              "description": "",
+              "price": 530,
+              "weight": "250 г",
+              "tags": [
+                "recommended"
+              ],
+              "image": "images/products/baklazhany-s-tomatami-i-strachatelloy.jpg",
+              "slug": "baklazhany-s-tomatami-i-strachatelloy"
+            },
+            {
+              "name": "Овощной салат с тыквенными семечками",
+              "description": "",
+              "price": 490,
+              "weight": "230 г",
+              "tags": [],
+              "image": "images/products/ovoschnoy-salat-s-tykvennymi-semechkami.jpg",
+              "slug": "ovoschnoy-salat-s-tykvennymi-semechkami"
+            },
+            {
+              "name": "Салат с вяленой уткой и грушей",
+              "description": "Микс зелени, утка вяленая, томлёная груша, черри, горгонзола, медово-лимонная заправка, миндальные лепестки",
+              "price": 590,
+              "weight": "220 г",
+              "tags": [],
+              "image": "images/products/salat-s-vyalenoy-utkoy-i-grushey.jpg",
+              "slug": "salat-s-vyalenoy-utkoy-i-grushey"
+            },
+            {
+              "name": "Салат с глазированной курицей",
+              "description": "Куриное филе, шампиньоны, микс салата, черри, кунжут",
+              "price": 490,
+              "weight": "230 г",
+              "tags": [
+                "recommended"
+              ],
+              "image": "images/products/salat-s-glazirovannoy-kuritsey.jpeg",
+              "slug": "salat-s-glazirovannoy-kuritsey"
+            },
+            {
+              "name": "Салат с киноа, лососем и авокадо",
+              "description": "С азиатской заправкой",
+              "price": 620,
+              "weight": "280 г",
+              "tags": [],
+              "image": "images/products/salat-s-kinoa-lososem-i-avokado-s-aziatskoy-zapravkoy.jpeg",
+              "slug": "salat-s-kinoa-lososem-i-avokado-s-aziatskoy-zapravkoy"
+            },
+            {
+              "name": "Салат с креветками и голубым сыром",
+              "description": "Микс зелени, креветка тигровая, булгур, горгонзола, ореховый соус",
+              "price": 630,
+              "weight": "220 г",
+              "tags": [
+                "recommended"
+              ],
+              "image": "images/products/salat-s-krevetkami-i-golubym-syrom.jpg",
+              "slug": "salat-s-krevetkami-i-golubym-syrom"
+            },
+            {
+              "name": "Салат с ростбифом и соусом чимичури",
+              "description": "Говядина су-вид, печёный перец, картофель, микс салата, огурец маринованный, соус чимичури, творожно-сливочный сыр с трюфельным маслом",
+              "price": 630,
+              "weight": "225 г",
+              "tags": [],
+              "image": "images/products/salat-s-rostbifom-i-sousom-chimichuri.jpeg",
+              "slug": "salat-s-rostbifom-i-sousom-chimichuri"
+            },
+            {
+              "name": "Салат с семгой и яйцом пашот",
+              "description": "Микс зелени, авокадо, черри, яйцо пашот, пармезан, ореховый соус",
+              "price": 620,
+              "weight": "220 г",
+              "tags": [
+                "recommended"
+              ],
+              "image": "images/products/salat-s-semgoy-i-yaytsom-pashot.jpg",
+              "slug": "salat-s-semgoy-i-yaytsom-pashot"
+            },
+            {
+              "name": "Тёплый салат с морепродуктами",
+              "description": "Креветки тигровые, мясо мидий, креветка коктейльная, вонголе, микс салата, сливки, сыр горгонзола, черри",
+              "price": 670,
+              "weight": "230 г",
+              "tags": [],
+              "image": "images/products/tyoplyy-salat-s-moreproduktami.jpg",
+              "slug": "tyoplyy-salat-s-moreproduktami"
+            },
+            {
+              "name": "Цезарь с креветками",
+              "description": "Романо, айсберг, креветки, черри, яйцо, пармезан, соус «Цезарь»",
+              "price": 630,
+              "weight": "250 г",
+              "tags": [
+                "recommended"
+              ],
+              "image": "images/products/tsezar-s-krevetkami.jpg",
+              "slug": "tsezar-s-krevetkami"
+            },
+            {
+              "name": "Цезарь с курицей",
+              "description": "Романо, айсберг, куриное филе, черри, яйцо, пармезан, соус «Цезарь»",
+              "price": 490,
+              "weight": "250 г",
+              "tags": [
+                "recommended"
+              ],
+              "image": "images/products/tsezar-s-kuritsey.jpg",
+              "slug": "tsezar-s-kuritsey"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Закуски",
+      "slug": "appetizers",
+      "subcategories": [
+        {
+          "name": "",
+          "items": [
+            {
+              "name": "Брускетта с семгой и печёным перцем",
+              "description": "",
+              "price": 520,
+              "weight": "230 г",
+              "tags": [
+                "recommended"
+              ],
+              "image": "images/products/brusketta-s-semgoy-i-pechenym-pertsem.jpg",
+              "slug": "brusketta-s-semgoy-i-pechenym-pertsem"
+            },
+            {
+              "name": "Вителло тоннато",
+              "description": "Вырезка говядины су-вид, соус тоннато, каперсы",
+              "price": 670,
+              "weight": "250 г",
+              "tags": [],
+              "image": "images/products/vitello-tonnato.jpeg",
+              "slug": "vitello-tonnato"
+            },
+            {
+              "name": "Гренки с сырным соусом",
+              "description": "120 г блюдо + 30 г соус",
+              "price": 290,
+              "weight": "150 г",
+              "tags": [
+                "recommended"
+              ],
+              "image": "images/products/grenki-s-syrnym-sousom.jpeg",
+              "slug": "grenki-s-syrnym-sousom"
+            },
+            {
+              "name": "Дощечка сыров",
+              "description": "Пармезан, горгонзола, гауда",
+              "price": 690,
+              "weight": "180 г",
+              "tags": [],
+              "image": "images/products/doschechka-syrov.jpg",
+              "slug": "doschechka-syrov"
+            },
+            {
+              "name": "Карпаччо из вяленой утки",
+              "description": "С луковым мармеладом",
+              "price": 590,
+              "weight": "150 г",
+              "tags": [
+                "new"
+              ],
+              "image": "images/products/karpachcho-iz-vyalenoy-utki.jpg",
+              "slug": "karpachcho-iz-vyalenoy-utki"
+            },
+            {
+              "name": "Острые куриные стрипсы с соусом",
+              "description": "",
+              "price": 420,
+              "weight": "150 г",
+              "tags": [
+                "spicy"
+              ],
+              "image": "images/products/ostrye-kurinye-stripsy-s-sousom.jpeg",
+              "slug": "ostrye-kurinye-stripsy-s-sousom"
+            },
+            {
+              "name": "Поке с креветками",
+              "description": "Рис, креветки, авокадо, листья нори, огурец, чука, черри",
+              "price": 650,
+              "weight": "280 г",
+              "tags": [],
+              "image": "images/products/poke-s-krevetkami.jpg",
+              "slug": "poke-s-krevetkami"
+            },
+            {
+              "name": "Поке с лососем",
+              "description": "Рис, сл/сол семга, огурец, бобы эдамамэ, апельсин, чука, нори",
+              "price": 650,
+              "weight": "320 г",
+              "tags": [],
+              "image": "images/products/poke-s-lososem.jpg",
+              "slug": "poke-s-lososem"
+            },
+            {
+              "name": "Сырные палочки с соусом",
+              "description": "",
+              "price": 440,
+              "weight": "150 г",
+              "tags": [
+                "recommended"
+              ],
+              "image": "images/products/syrnye-palochki-s-sousom.jpeg",
+              "slug": "syrnye-palochki-s-sousom"
+            },
+            {
+              "name": "Тар-тар из говядины",
+              "description": "С картофельными слайсами и пармезановым соусом",
+              "price": 590,
+              "weight": "190 г",
+              "tags": [
+                "new"
+              ],
+              "image": "images/products/tar-tar-iz-govyadiny.jpg",
+              "slug": "tar-tar-iz-govyadiny"
+            },
+            {
+              "name": "Тар-тар из тунца",
+              "description": "Тунец, авокадо, томаты, сливочный сыр, чиабатта",
+              "price": 590,
+              "weight": "200 г",
+              "tags": [],
+              "image": "images/products/tar-tar-iz-tuntsa.jpeg",
+              "slug": "tar-tar-iz-tuntsa"
+            },
+            {
+              "name": "Фритто мисто",
+              "description": "Кальмар и креветки в нежном кляре с чесночным соусом",
+              "price": 690,
+              "weight": "250 г",
+              "tags": [
+                "recommended"
+              ],
+              "image": "images/products/fritto-misto.jpg",
+              "slug": "fritto-misto"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Супы",
+      "slug": "soups",
+      "subcategories": [
+        {
+          "name": "",
+          "items": [
+            {
+              "name": "Борщ с протёртым салом",
+              "description": "",
+              "price": 380,
+              "weight": "300 г",
+              "tags": [
+                "recommended"
+              ],
+              "image": "images/products/borsch-s-protertym-salom.jpg",
+              "slug": "borsch-s-protertym-salom"
+            },
+            {
+              "name": "Суп из брокколи",
+              "description": "На кокосовом молоке с креветками",
+              "price": 540,
+              "weight": "350 г",
+              "tags": [],
+              "image": "images/products/sup-iz-brokkoli.jpg",
+              "slug": "sup-iz-brokkoli"
+            },
+            {
+              "name": "Том-ям",
+              "description": "",
+              "price": 610,
+              "weight": "350 г",
+              "tags": [
+                "recommended"
+              ],
+              "image": "images/products/tom-yam.jpeg",
+              "slug": "tom-yam"
+            },
+            {
+              "name": "Томатный суп с брынзой",
+              "description": "",
+              "price": 360,
+              "weight": "250 г",
+              "tags": [],
+              "image": "images/products/tomatnyy-sup-s-brynzoy.jpg",
+              "slug": "tomatnyy-sup-s-brynzoy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Пасты и Ризотто",
+      "slug": "pasta",
+      "subcategories": [
+        {
+          "name": "",
+          "items": [
+            {
+              "name": "Паста Карбонара",
+              "description": "",
+              "price": 460,
+              "weight": "300 г",
+              "tags": [
+                "recommended"
+              ],
+              "image": "images/products/pasta-karbonara.jpeg",
+              "slug": "pasta-karbonara"
+            },
+            {
+              "name": "Ризотто с угрём",
+              "description": "С кедровыми орешками и сливочным сыром",
+              "price": 680,
+              "weight": "300 г",
+              "tags": [],
+              "image": "images/products/rizotto-s-ugrem.jpg",
+              "slug": "rizotto-s-ugrem"
+            },
+            {
+              "name": "Фетучини с индейкой и сливочным соусом",
+              "description": "Паста, томлёная индейка, сливочный соус, пармезан, вяленые томаты",
+              "price": 520,
+              "weight": "240 г",
+              "tags": [
+                "recommended"
+              ],
+              "image": "images/products/fetuchini-s-indeykoy-i-slivochnym-sousom.jpg",
+              "slug": "fetuchini-s-indeykoy-i-slivochnym-sousom"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Горячее",
+      "slug": "hot",
+      "subcategories": [
+        {
+          "name": "",
+          "items": [
+            {
+              "name": "Бефстроганов",
+              "description": "Вырезка говядины, белые грибы, сливки, картофельное пюре",
+              "price": 820,
+              "weight": "270 г",
+              "tags": [],
+              "image": "images/products/befstroganov.jpg",
+              "slug": "befstroganov"
+            },
+            {
+              "name": "Биточки из индейки",
+              "description": "С картофельным пюре и грибным соусом",
+              "price": 540,
+              "weight": "330 г",
+              "tags": [
+                "recommended"
+              ],
+              "image": "images/products/bitochki-iz-indeyki-s-kartofelnym-pyure-i-gribnym-sousom.jpeg",
+              "slug": "bitochki-iz-indeyki-s-kartofelnym-pyure-i-gribnym-sousom"
+            },
+            {
+              "name": "Креветки блю-чиз с чиабаттой",
+              "description": "",
+              "price": 790,
+              "weight": "200 г",
+              "tags": [],
+              "image": "images/products/krevetki-blyu-chiz-s-chiabattoy.jpg",
+              "slug": "krevetki-blyu-chiz-s-chiabattoy"
+            },
+            {
+              "name": "Креветки Том-ям",
+              "description": "",
+              "price": 790,
+              "weight": "250 г",
+              "tags": [
+                "new"
+              ],
+              "image": "images/products/krevetki-tom-yam.jpg",
+              "slug": "krevetki-tom-yam"
+            },
+            {
+              "name": "Куриное филе в пармезановой панировке",
+              "description": "С томатной сальсой. Куриное филе, томаты, красный лук, соус унаги",
+              "price": 590,
+              "weight": "250 г",
+              "tags": [],
+              "image": "images/products/kurinoe-file-v-parmezanovoy-panirovke-s-tomatnoy-salsoy.jpg",
+              "slug": "kurinoe-file-v-parmezanovoy-panirovke-s-tomatnoy-salsoy"
+            },
+            {
+              "name": "Курица по-тайски",
+              "description": "Куриное бедро, соус с тайскими нотками, шампиньоны, обжаренный шпинат, картофельное пюре",
+              "price": 590,
+              "weight": "270 г",
+              "tags": [],
+              "image": "images/products/kuritsa-po-tayski.jpeg",
+              "slug": "kuritsa-po-tayski"
+            },
+            {
+              "name": "Медальоны из говядины",
+              "description": "С картофелем по-деревенски и трюфельным соусом",
+              "price": 790,
+              "weight": "230 г",
+              "tags": [
+                "recommended"
+              ],
+              "image": "images/products/medalony-iz-govyadiny.jpg",
+              "slug": "medalony-iz-govyadiny"
+            },
+            {
+              "name": "Мидии блю-чиз",
+              "description": "",
+              "price": 590,
+              "weight": "300 г",
+              "tags": [],
+              "image": "images/products/midii-blyu-chiz.jpg",
+              "slug": "midii-blyu-chiz"
+            },
+            {
+              "name": "Свиные ребра с картофелем по-деревенски",
+              "description": "",
+              "price": 620,
+              "weight": "330 г",
+              "tags": [
+                "recommended"
+              ],
+              "image": "images/products/svinye-rebra-s-kartofelem-po-derevenski.jpg",
+              "slug": "svinye-rebra-s-kartofelem-po-derevenski"
+            },
+            {
+              "name": "Стейк лосося с бататом фри",
+              "description": "С творожно-трюфельным соусом",
+              "price": 870,
+              "weight": "260 г",
+              "tags": [],
+              "image": "images/products/steyk-lososya-so-sparzhey-i-tsitrusovym-sousom.jpg",
+              "slug": "steyk-lososya-so-sparzhey-i-tsitrusovym-sousom"
+            },
+            {
+              "name": "Стейк лосося со спаржей",
+              "description": "С цитрусовым соусом",
+              "price": 870,
+              "weight": "230 г",
+              "tags": [],
+              "image": "images/products/steyk-lososya-so-sparzhey-i-tsitrusovym-sousom.jpg",
+              "slug": "steyk-lososya-so-sparzhey-i-tsitrusovym-sousom"
+            },
+            {
+              "name": "Татаки из тунца",
+              "description": "С острой овощной сальсой и соево-имбирным соусом",
+              "price": 630,
+              "weight": "270 г",
+              "tags": [
+                "new"
+              ],
+              "image": "images/products/tataki-iz-tuntsa.jpg",
+              "slug": "tataki-iz-tuntsa"
+            },
+            {
+              "name": "Томлёные щеки с молодыми овощами",
+              "description": "",
+              "price": 670,
+              "weight": "280 г",
+              "tags": [],
+              "image": "images/products/tomlenye-scheki-s-molodymi-ovoschami.jpg",
+              "slug": "tomlenye-scheki-s-molodymi-ovoschami"
+            },
+            {
+              "name": "Треска в панировке с ньокками",
+              "description": "Со сливочным соусом",
+              "price": 620,
+              "weight": "320 г",
+              "tags": [],
+              "image": "images/products/treska-s-nokkami-i-veshankami.jpg",
+              "slug": "treska-s-nokkami-i-veshankami"
+            },
+            {
+              "name": "Филе индейки су-вид",
+              "description": "В трюфельном соусе с брокколи и грибами",
+              "price": 580,
+              "weight": "280 г",
+              "tags": [],
+              "image": "images/products/file-indeyki-su-vid-v-tryufelnom-souse.jpg",
+              "slug": "file-indeyki-su-vid-v-tryufelnom-souse"
+            },
+            {
+              "name": "Филе Миньон",
+              "description": "С перечным соусом",
+              "price": 1150,
+              "weight": "280 г",
+              "tags": [],
+              "image": "images/products/file-minon.jpg",
+              "slug": "file-minon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Гарниры",
+      "slug": "sides",
+      "subcategories": [
+        {
+          "name": "",
+          "items": [
+            {
+              "name": "Картофель фри",
+              "description": "",
+              "price": 230,
+              "weight": "100 г",
+              "tags": [
+                "recommended"
+              ],
+              "image": "images/products/kartofel-fri.jpg",
+              "slug": "kartofel-fri"
+            },
+            {
+              "name": "Картофельные дольки",
+              "description": "",
+              "price": 230,
+              "weight": "100 г",
+              "tags": [],
+              "image": "images/products/kartofelnye-dolki.jpg",
+              "slug": "kartofelnye-dolki"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Детское меню",
+      "slug": "kids",
+      "subcategories": [
+        {
+          "name": "",
+          "items": [
+            {
+              "name": "Куриный суп-лапша",
+              "description": "",
+              "price": 240,
+              "weight": "250 г",
+              "tags": [
+                "recommended",
+                "kids"
+              ],
+              "image": "images/products/kurinyy-sup-lapsha.jpg",
+              "slug": "kurinyy-sup-lapsha"
+            },
+            {
+              "name": "Паста со сливочным сыром",
+              "description": "",
+              "price": 320,
+              "weight": "220 г",
+              "tags": [
+                "kids"
+              ],
+              "image": "images/products/pasta-so-slivochnym-syrom.jpg",
+              "slug": "pasta-so-slivochnym-syrom"
+            },
+            {
+              "name": "Спагетти со сливочным маслом",
+              "description": "",
+              "price": 160,
+              "weight": "120 г",
+              "tags": [
+                "kids"
+              ],
+              "image": "images/products/spagetti-so-slivochnym-maslom.jpg",
+              "slug": "spagetti-so-slivochnym-maslom"
+            },
+            {
+              "name": "Эскимо из курочки",
+              "description": "",
+              "price": 330,
+              "weight": "150 г",
+              "tags": [
+                "recommended",
+                "kids"
+              ],
+              "image": "images/products/eskimo-iz-kurochki.jpg",
+              "slug": "eskimo-iz-kurochki"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Мороженое",
+      "slug": "icecream",
+      "subcategories": [
+        {
+          "name": "",
+          "items": [
+            {
+              "name": "Шоколадное мороженое",
+              "description": "",
+              "price": 140,
+              "weight": "100 г",
+              "tags": [],
+              "image": "images/products/shokoladnoe-morozhenoe.jpg",
+              "slug": "shokoladnoe-morozhenoe"
+            },
+            {
+              "name": "Ванильное мороженое",
+              "description": "",
+              "price": 140,
+              "weight": "100 г",
+              "tags": [],
+              "image": "images/products/vanilnoe-morozhenoe.jpg",
+              "slug": "vanilnoe-morozhenoe"
+            },
+            {
+              "name": "Клубничное мороженое",
+              "description": "",
+              "price": 140,
+              "weight": "100 г",
+              "tags": [],
+              "image": "images/products/klubnichnoe-morozhenoe.jpg",
+              "slug": "klubnichnoe-morozhenoe"
+            },
+            {
+              "name": "Мороженое (порция)",
+              "description": "Шоколадное, ванильное или клубничное",
+              "price": 160,
+              "weight": "150 г",
+              "tags": [],
+              "image": "images/products/vanilnoe-morozhenoe.jpg",
+              "slug": "vanilnoe-morozhenoe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Напитки",
+      "slug": "drinks",
+      "subcategories": [
+        {
+          "name": "Кофе",
+          "items": [
+            {
+              "name": "Эспрессо",
+              "description": "",
+              "price": 120,
+              "weight": "",
+              "tags": [],
+              "image": "images/products/espresso.jpg",
+              "slug": "espresso"
+            },
+            {
+              "name": "Двойной эспрессо",
+              "description": "",
+              "price": 190,
+              "weight": "",
+              "tags": [],
+              "image": "images/products/dvoynoy-espresso.jpg",
+              "slug": "dvoynoy-espresso"
+            },
+            {
+              "name": "Американо",
+              "description": "Несколько размеров",
+              "price": 120,
+              "priceFrom": true,
+              "weight": "",
+              "tags": [],
+              "image": "images/products/amerikano.jpg",
+              "slug": "amerikano"
+            },
+            {
+              "name": "Капучино",
+              "description": "Несколько размеров",
+              "price": 190,
+              "priceFrom": true,
+              "weight": "",
+              "tags": [],
+              "image": "images/products/kapuchino.jpg",
+              "slug": "kapuchino"
+            },
+            {
+              "name": "Капучино на альтернативном молоке",
+              "description": "",
+              "price": 280,
+              "priceFrom": true,
+              "weight": "",
+              "tags": [],
+              "image": "images/products/kapuchino-na-kokosovom-moloke.jpg",
+              "slug": "kapuchino-na-kokosovom-moloke"
+            },
+            {
+              "name": "Латте",
+              "description": "Несколько размеров",
+              "price": 220,
+              "priceFrom": true,
+              "weight": "",
+              "tags": [
+                "recommended"
+              ],
+              "image": "images/products/latte.jpg",
+              "slug": "latte"
+            },
+            {
+              "name": "Айс-Латте",
+              "description": "",
+              "price": 220,
+              "priceFrom": true,
+              "weight": "",
+              "tags": [],
+              "image": "images/products/ays-latte.jpg",
+              "slug": "ays-latte"
+            },
+            {
+              "name": "Флэт-Уайт",
+              "description": "",
+              "price": 240,
+              "weight": "200 мл",
+              "tags": [],
+              "image": "images/products/flet-uayt.jpg",
+              "slug": "flet-uayt"
+            },
+            {
+              "name": "Раф классический",
+              "description": "",
+              "price": 230,
+              "priceFrom": true,
+              "weight": "",
+              "tags": [],
+              "image": "images/products/raf-klassicheskiy.jpg",
+              "slug": "raf-klassicheskiy"
+            },
+            {
+              "name": "Кофе — Тюр",
+              "description": "Эспрессо двойной, фреш апельсин, тростниковый сахар, корица",
+              "price": 290,
+              "priceFrom": true,
+              "weight": "",
+              "tags": [],
+              "image": "images/products/kofe-tyur.jpg",
+              "slug": "kofe-tyur"
+            },
+            {
+              "name": "Кофе Бамбл",
+              "description": "Эспрессо, фреш апельсин, сироп, карамель",
+              "price": 390,
+              "weight": "300 мл",
+              "tags": [],
+              "image": "images/products/kofe-bambl.jpg",
+              "slug": "kofe-bambl"
+            },
+            {
+              "name": "Какао с маршмеллоу",
+              "description": "",
+              "price": 180,
+              "weight": "250 мл",
+              "tags": [],
+              "image": "images/products/kakao-s-zefirkami.jpg",
+              "slug": "kakao-s-zefirkami"
+            }
+          ]
+        },
+        {
+          "name": "Чай",
+          "items": [
+            {
+              "name": "Чёрный чай",
+              "description": "",
+              "price": 230,
+              "weight": "600 мл",
+              "tags": [],
+              "image": "images/products/chay.jpg",
+              "slug": "chay"
+            },
+            {
+              "name": "Зелёный чай",
+              "description": "",
+              "price": 230,
+              "weight": "600 мл",
+              "tags": [],
+              "image": "images/products/zelenyy-chay.jpg",
+              "slug": "zelenyy-chay"
+            },
+            {
+              "name": "Травяной чай",
+              "description": "",
+              "price": 230,
+              "weight": "600 мл",
+              "tags": [],
+              "image": "images/products/travyanoy-chay.jpg",
+              "slug": "travyanoy-chay"
+            },
+            {
+              "name": "Фруктовый чай",
+              "description": "",
+              "price": 230,
+              "weight": "600 мл",
+              "tags": [
+                "recommended"
+              ],
+              "image": "images/products/fruktovyy-chay.jpg",
+              "slug": "fruktovyy-chay"
+            },
+            {
+              "name": "Тибетский чай",
+              "description": "",
+              "price": 330,
+              "weight": "600 мл",
+              "tags": [],
+              "image": "images/products/tibetskiy-chay.jpg",
+              "slug": "tibetskiy-chay"
+            },
+            {
+              "name": "Вишня-клюква",
+              "description": "",
+              "price": 370,
+              "weight": "600 мл",
+              "tags": [],
+              "image": "images/products/vishnya-klyukva.jpg",
+              "slug": "vishnya-klyukva"
+            },
+            {
+              "name": "Малина-имбирь",
+              "description": "",
+              "price": 370,
+              "weight": "600 мл",
+              "tags": [],
+              "image": "images/products/malina-imbir.jpg",
+              "slug": "malina-imbir"
+            },
+            {
+              "name": "Облепиховый чай с имбирём",
+              "description": "",
+              "price": 370,
+              "weight": "600 мл",
+              "tags": [],
+              "image": "images/products/oblepihovyy-chay-s-imbirem.jpg",
+              "slug": "oblepihovyy-chay-s-imbirem"
+            },
+            {
+              "name": "Пряное яблоко",
+              "description": "",
+              "price": 370,
+              "weight": "600 мл",
+              "tags": [],
+              "image": "images/products/pryanoe-yabloko.jpg",
+              "slug": "pryanoe-yabloko"
+            },
+            {
+              "name": "Чёрная смородина-апельсин",
+              "description": "",
+              "price": 370,
+              "weight": "600 мл",
+              "tags": [],
+              "image": "images/products/chernaya-smorodina-apelsin.jpg",
+              "slug": "chernaya-smorodina-apelsin"
+            },
+            {
+              "name": "Глинтвейн безалкогольный",
+              "description": "",
+              "price": 390,
+              "weight": "600 мл",
+              "tags": [],
+              "image": "images/products/glintveyn-bezalkogolnyy.jpg",
+              "slug": "glintveyn-bezalkogolnyy"
+            }
+          ]
+        },
+        {
+          "name": "Освежающие напитки",
+          "items": [
+            {
+              "name": "Фреш апельсиновый",
+              "description": "",
+              "price": 340,
+              "weight": "250 мл",
+              "tags": [],
+              "image": "images/products/fresh-apelsinovyy.jpg",
+              "slug": "fresh-apelsinovyy"
+            },
+            {
+              "name": "Бабл-ти тропический",
+              "description": "На основе лимонада",
+              "price": 340,
+              "weight": "400 мл",
+              "tags": [],
+              "image": "images/products/babl-ti-tropicheskiy.jpg",
+              "slug": "babl-ti-tropicheskiy"
+            },
+            {
+              "name": "Бабл-ти ягодный",
+              "description": "На основе ягодного лимонада",
+              "price": 340,
+              "weight": "400 мл",
+              "tags": [],
+              "image": "images/products/babl-ti-yagodnyy.jpg",
+              "slug": "babl-ti-yagodnyy"
+            },
+            {
+              "name": "Грейпфрут-клубника",
+              "description": "",
+              "price": 290,
+              "priceFrom": true,
+              "weight": "",
+              "tags": [],
+              "image": "images/products/greypfrut-klubnika.jpg",
+              "slug": "greypfrut-klubnika"
+            },
+            {
+              "name": "Гранат-чёрная смородина",
+              "description": "",
+              "price": 310,
+              "priceFrom": true,
+              "weight": "",
+              "tags": [],
+              "image": "images/products/granat-chernaya-smorodina.jpg",
+              "slug": "granat-chernaya-smorodina"
+            }
+          ]
+        },
+        {
+          "name": "Смузи",
+          "items": [
+            {
+              "name": "Смузи зелёный",
+              "description": "Киви, банан, шпинат, семена льна, кокосовое молоко",
+              "price": 370,
+              "weight": "350 мл",
+              "tags": [],
+              "image": "images/products/smuzi-zelenyy.jpg",
+              "slug": "smuzi-zelenyy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

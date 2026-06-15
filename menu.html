@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Меню кафе Пармезан в Клинцах. Неаполитанская пицца, завтраки, салаты, горячее, напитки.">
+  <link rel="icon" type="image/png" href="images/brand/favicon.png">
+  <title>Меню — Пармезан</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="css/main.css?v=3">
+  <link rel="stylesheet" href="css/pages/menu.css">
+</head>
+<body>
+  <main>
+    <section class="page-hero">
+      <div class="page-hero-inner">
+        <span class="section-eyebrow">Ассортимент</span>
+        <h1>Меню</h1>
+      </div>
+    </section>
+
+    <section class="menu-filters-section">
+      <div class="container">
+        <div class="menu-filters" id="menu-filters">
+          <button class="menu-filter active" data-cat="all">Всё</button>
+          <button class="menu-filter" data-cat="pizza">Пицца</button>
+          <button class="menu-filter" data-cat="breakfast">Завтраки</button>
+          <button class="menu-filter" data-cat="salads">Салаты</button>
+          <button class="menu-filter" data-cat="appetizers">Закуски</button>
+          <button class="menu-filter" data-cat="soups">Супы</button>
+          <button class="menu-filter" data-cat="pasta">Пасты</button>
+          <button class="menu-filter" data-cat="hot">Горячее</button>
+          <button class="menu-filter" data-cat="sides">Гарниры</button>
+          <button class="menu-filter" data-cat="kids">Детское</button>
+          <button class="menu-filter" data-cat="icecream">Мороженое</button>
+          <button class="menu-filter" data-cat="drinks">Напитки</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" style="padding-top:var(--spacing-2xl)">
+      <div class="container">
+        <div id="menu-container">
+          <p class="text-center" style="color:var(--color-text-muted);font-weight:400">Загрузка меню...</p>
+        </div>
+        <div class="menu-order-cta">
+          <p>Оформите доставку или самовывоз на сайте заказов</p>
+          <a href="https://parmesan-klintsy.ru" class="btn btn-gold" target="_blank" rel="noopener">Заказать</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="js/menu-data.js"></script>
+  <script src="js/components.js?v=2"></script>
+  <script src="js/menu.js"></script>
+</body>
+</html>

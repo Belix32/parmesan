@@ -1,0 +1,739 @@
+{
+  "products": {
+    "4-syra": {
+      "name": "4-syra",
+      "slug": "4-syra",
+      "image": "images/products/4-syra.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/4-syra.jpg",
+      "bytes": 308585
+    },
+    "amerikano": {
+      "name": "amerikano",
+      "slug": "amerikano",
+      "image": "images/products/amerikano.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/amerikano.jpg",
+      "bytes": 108131
+    },
+    "ays-latte": {
+      "name": "ays-latte",
+      "slug": "ays-latte",
+      "image": "images/products/ays-latte.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/ays-latte.jpg",
+      "bytes": 191339
+    },
+    "babl-ti-tropicheskiy": {
+      "name": "babl-ti-tropicheskiy",
+      "slug": "babl-ti-tropicheskiy",
+      "image": "images/products/babl-ti-tropicheskiy.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2024/06/babl-ti-tropicheskiy.jpg",
+      "bytes": 118393
+    },
+    "babl-ti-yagodnyy": {
+      "name": "babl-ti-yagodnyy",
+      "slug": "babl-ti-yagodnyy",
+      "image": "images/products/babl-ti-yagodnyy.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2024/06/babl-ti-yagodnyy.jpg",
+      "bytes": 111097
+    },
+    "baklazhany-s-tomatami-i-strachatelloy": {
+      "name": "baklazhany-s-tomatami-i-strachatelloy",
+      "slug": "baklazhany-s-tomatami-i-strachatelloy",
+      "image": "images/products/baklazhany-s-tomatami-i-strachatelloy.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/baklazhany-s-tomatami-i-strachatelloy-1.jpg",
+      "bytes": 134897
+    },
+    "befstroganov": {
+      "name": "befstroganov",
+      "slug": "befstroganov",
+      "image": "images/products/befstroganov.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2025/10/befstroganov-2.jpg",
+      "bytes": 145090
+    },
+    "bitochki-iz-indeyki-s-kartofelnym-pyure-i-gribnym-sousom": {
+      "name": "bitochki-iz-indeyki-s-kartofelnym-pyure-i-gribnym-sousom",
+      "slug": "bitochki-iz-indeyki-s-kartofelnym-pyure-i-gribnym-sousom",
+      "image": "images/products/bitochki-iz-indeyki-s-kartofelnym-pyure-i-gribnym-sousom.jpeg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/10/bitochki-iz-indeyki-s-kartofelnym-pyure-i-gribnym-sousom.jpeg",
+      "bytes": 309142
+    },
+    "borsch-s-protertym-salom": {
+      "name": "borsch-s-protertym-salom",
+      "slug": "borsch-s-protertym-salom",
+      "image": "images/products/borsch-s-protertym-salom.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2023/01/borsch.jpg",
+      "bytes": 204232
+    },
+    "brusketta-s-semgoy-i-pechenym-pertsem": {
+      "name": "brusketta-s-semgoy-i-pechenym-pertsem",
+      "slug": "brusketta-s-semgoy-i-pechenym-pertsem",
+      "image": "images/products/brusketta-s-semgoy-i-pechenym-pertsem.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/10/brusketta-s-syomgoy-i-pechyonym-pertsem.jpg",
+      "bytes": 232459
+    },
+    "chay": {
+      "name": "chay",
+      "slug": "chay",
+      "image": "images/products/chay.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/zelenyy-chay.jpg",
+      "bytes": 253881
+    },
+    "chernaya-smorodina-apelsin": {
+      "name": "chernaya-smorodina-apelsin",
+      "slug": "chernaya-smorodina-apelsin",
+      "image": "images/products/chernaya-smorodina-apelsin.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2023/10/chernaya-smorodina-apelsin-1.jpg",
+      "bytes": 91601
+    },
+    "doschechka-syrov": {
+      "name": "doschechka-syrov",
+      "slug": "doschechka-syrov",
+      "image": "images/products/doschechka-syrov.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/10/doschechka-syrov.jpg",
+      "bytes": 102916
+    },
+    "dvoynoy-espresso": {
+      "name": "dvoynoy-espresso",
+      "slug": "dvoynoy-espresso",
+      "image": "images/products/dvoynoy-espresso.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/espresso.jpg",
+      "bytes": 203349
+    },
+    "eskimo-iz-kurochki": {
+      "name": "eskimo-iz-kurochki",
+      "slug": "eskimo-iz-kurochki",
+      "image": "images/products/eskimo-iz-kurochki.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/eskimo-iz-kurochki.jpg",
+      "bytes": 484441
+    },
+    "espresso": {
+      "name": "espresso",
+      "slug": "espresso",
+      "image": "images/products/espresso.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/espresso.jpg",
+      "bytes": 203349
+    },
+    "fetuchini-s-indeykoy-i-slivochnym-sousom": {
+      "name": "fetuchini-s-indeykoy-i-slivochnym-sousom",
+      "slug": "fetuchini-s-indeykoy-i-slivochnym-sousom",
+      "image": "images/products/fetuchini-s-indeykoy-i-slivochnym-sousom.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/fetuchini-s-indeykoy-i-slivochnym-sousom.jpg",
+      "bytes": 161572
+    },
+    "file-indeyki-su-vid-v-tryufelnom-souse": {
+      "name": "file-indeyki-su-vid-v-tryufelnom-souse",
+      "slug": "file-indeyki-su-vid-v-tryufelnom-souse",
+      "image": "images/products/file-indeyki-su-vid-v-tryufelnom-souse.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2026/04/file-indeyki-su-vid-v-tryufelnom-souse.jpg",
+      "bytes": 110375
+    },
+    "file-minon": {
+      "name": "file-minon",
+      "slug": "file-minon",
+      "image": "images/products/file-minon.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2023/10/file-minon.jpg",
+      "bytes": 115012
+    },
+    "flet-uayt": {
+      "name": "flet-uayt",
+      "slug": "flet-uayt",
+      "image": "images/products/flet-uayt.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/fletvayt.jpg",
+      "bytes": 436489
+    },
+    "fokachcha-s-provanskimi-travami": {
+      "name": "fokachcha-s-provanskimi-travami",
+      "slug": "fokachcha-s-provanskimi-travami",
+      "image": "images/products/fokachcha-s-provanskimi-travami.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/10/fokachcha.jpg",
+      "bytes": 97547
+    },
+    "fokachcha-s-vyalenymi-tomatami": {
+      "name": "fokachcha-s-vyalenymi-tomatami",
+      "slug": "fokachcha-s-vyalenymi-tomatami",
+      "image": "images/products/fokachcha-s-vyalenymi-tomatami.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2026/04/img_7444-1.jpg",
+      "bytes": 147254
+    },
+    "fresh-apelsinovyy": {
+      "name": "fresh-apelsinovyy",
+      "slug": "fresh-apelsinovyy",
+      "image": "images/products/fresh-apelsinovyy.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/fresh-apelsinovyy.jpg",
+      "bytes": 135270
+    },
+    "fritto-misto": {
+      "name": "fritto-misto",
+      "slug": "fritto-misto",
+      "image": "images/products/fritto-misto.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2023/10/fritto-misto.jpg",
+      "bytes": 115894
+    },
+    "fruktovyy-chay": {
+      "name": "fruktovyy-chay",
+      "slug": "fruktovyy-chay",
+      "image": "images/products/fruktovyy-chay.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/chay-fruktovyy.jpg",
+      "bytes": 242072
+    },
+    "glintveyn-bezalkogolnyy": {
+      "name": "glintveyn-bezalkogolnyy",
+      "slug": "glintveyn-bezalkogolnyy",
+      "image": "images/products/glintveyn-bezalkogolnyy.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/10/glintveyn.jpg",
+      "bytes": 72830
+    },
+    "granat-chernaya-smorodina": {
+      "name": "granat-chernaya-smorodina",
+      "slug": "granat-chernaya-smorodina",
+      "image": "images/products/granat-chernaya-smorodina.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2026/04/img_7439-1.jpg",
+      "bytes": 76986
+    },
+    "grenki-s-syrnym-sousom": {
+      "name": "grenki-s-syrnym-sousom",
+      "slug": "grenki-s-syrnym-sousom",
+      "image": "images/products/grenki-s-syrnym-sousom.jpeg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/10/grenki-s-syrnym-sousom.jpeg",
+      "bytes": 346806
+    },
+    "grusha-gorgonzola": {
+      "name": "grusha-gorgonzola",
+      "slug": "grusha-gorgonzola",
+      "image": "images/products/grusha-gorgonzola.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/grusha-gorgonzola-1.jpg",
+      "bytes": 256039
+    },
+    "kakao-s-zefirkami": {
+      "name": "kakao-s-zefirkami",
+      "slug": "kakao-s-zefirkami",
+      "image": "images/products/kakao-s-zefirkami.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/kakao-s-zefirkami.jpg",
+      "bytes": 132823
+    },
+    "kapuchino": {
+      "name": "kapuchino",
+      "slug": "kapuchino",
+      "image": "images/products/kapuchino.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/kapuchino-1.jpg",
+      "bytes": 138855
+    },
+    "kapuchino-na-kokosovom-moloke": {
+      "name": "kapuchino-na-kokosovom-moloke",
+      "slug": "kapuchino-na-kokosovom-moloke",
+      "image": "images/products/kapuchino-na-kokosovom-moloke.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/kapuchino.jpg",
+      "bytes": 138855
+    },
+    "karpachcho-iz-vyalenoy-utki": {
+      "name": "karpachcho-iz-vyalenoy-utki",
+      "slug": "karpachcho-iz-vyalenoy-utki",
+      "image": "images/products/karpachcho-iz-vyalenoy-utki.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2026/04/karpachcho-iz-vyalenoy-utki.jpg",
+      "bytes": 142116
+    },
+    "kartofel-fri": {
+      "name": "kartofel-fri",
+      "slug": "kartofel-fri",
+      "image": "images/products/kartofel-fri.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/kartofel-fri.jpg",
+      "bytes": 153741
+    },
+    "kartofelnye-dolki": {
+      "name": "kartofelnye-dolki",
+      "slug": "kartofelnye-dolki",
+      "image": "images/products/kartofelnye-dolki.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2023/02/kartofel-dolkami.jpg",
+      "bytes": 101704
+    },
+    "klubnichnoe-morozhenoe": {
+      "name": "klubnichnoe-morozhenoe",
+      "slug": "klubnichnoe-morozhenoe",
+      "image": "images/products/klubnichnoe-morozhenoe.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/klubnichnoe-morozhenoe.jpg",
+      "bytes": 193673
+    },
+    "kofe-bambl": {
+      "name": "kofe-bambl",
+      "slug": "kofe-bambl",
+      "image": "images/products/kofe-bambl.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2024/11/kofe-bambl.jpg",
+      "bytes": 221591
+    },
+    "kofe-tyur": {
+      "name": "kofe-tyur",
+      "slug": "kofe-tyur",
+      "image": "images/products/kofe-tyur.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2024/11/kofe-tyur.jpg",
+      "bytes": 161299
+    },
+    "krevetki-blyu-chiz-s-chiabattoy": {
+      "name": "krevetki-blyu-chiz-s-chiabattoy",
+      "slug": "krevetki-blyu-chiz-s-chiabattoy",
+      "image": "images/products/krevetki-blyu-chiz-s-chiabattoy.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2024/11/krevetki-blyu-chiz-s-chiabattoy.jpg",
+      "bytes": 301278
+    },
+    "krevetki-tom-yam": {
+      "name": "krevetki-tom-yam",
+      "slug": "krevetki-tom-yam",
+      "image": "images/products/krevetki-tom-yam.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2026/04/krevetki-tom-yam.jpg",
+      "bytes": 115454
+    },
+    "kurinoe-file-v-parmezanovoy-panirovke-s-tomatnoy-salsoy": {
+      "name": "kurinoe-file-v-parmezanovoy-panirovke-s-tomatnoy-salsoy",
+      "slug": "kurinoe-file-v-parmezanovoy-panirovke-s-tomatnoy-salsoy",
+      "image": "images/products/kurinoe-file-v-parmezanovoy-panirovke-s-tomatnoy-salsoy.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/kurinoe-file-v-parmezanovoy-panirovke-s-tomatnoy-salsoy-1.jpg",
+      "bytes": 447456
+    },
+    "kurinyy-sup-lapsha": {
+      "name": "kurinyy-sup-lapsha",
+      "slug": "kurinyy-sup-lapsha",
+      "image": "images/products/kurinyy-sup-lapsha.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/kurinyy-sup-lapsha.jpg",
+      "bytes": 411045
+    },
+    "kuritsa-po-tayski": {
+      "name": "kuritsa-po-tayski",
+      "slug": "kuritsa-po-tayski",
+      "image": "images/products/kuritsa-po-tayski.jpeg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2024/06/kuritsa-po-tayski.jpeg",
+      "bytes": 171231
+    },
+    "latte": {
+      "name": "latte",
+      "slug": "latte",
+      "image": "images/products/latte.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/latte.jpg",
+      "bytes": 144317
+    },
+    "lenivye-vareniki-s-kokosovym-sousom-i-sousom-marakuyya": {
+      "name": "lenivye-vareniki-s-kokosovym-sousom-i-sousom-marakuyya",
+      "slug": "lenivye-vareniki-s-kokosovym-sousom-i-sousom-marakuyya",
+      "image": "images/products/lenivye-vareniki-s-kokosovym-sousom-i-sousom-marakuyya.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2026/04/lenivye-vareniki-s-kokosovym-sousom-i-sousom-marakuyya.jpg",
+      "bytes": 126922
+    },
+    "malina-imbir": {
+      "name": "malina-imbir",
+      "slug": "malina-imbir",
+      "image": "images/products/malina-imbir.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2024/11/malina-imbir.jpg",
+      "bytes": 313365
+    },
+    "margarita": {
+      "name": "margarita",
+      "slug": "margarita",
+      "image": "images/products/margarita.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/margarita-1.jpg",
+      "bytes": 183815
+    },
+    "medalony-iz-govyadiny": {
+      "name": "medalony-iz-govyadiny",
+      "slug": "medalony-iz-govyadiny",
+      "image": "images/products/medalony-iz-govyadiny.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2023/01/medalony-iz-govyadiny-s-tryufelnym-sousom.jpg",
+      "bytes": 402622
+    },
+    "midii-blyu-chiz": {
+      "name": "midii-blyu-chiz",
+      "slug": "midii-blyu-chiz",
+      "image": "images/products/midii-blyu-chiz.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/midii-blyu-chiz.jpg",
+      "bytes": 387282
+    },
+    "oblepihovyy-chay-s-imbirem": {
+      "name": "oblepihovyy-chay-s-imbirem",
+      "slug": "oblepihovyy-chay-s-imbirem",
+      "image": "images/products/oblepihovyy-chay-s-imbirem.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/oblepihovyy-chay.jpg",
+      "bytes": 104067
+    },
+    "ostrye-kurinye-stripsy-s-sousom": {
+      "name": "ostrye-kurinye-stripsy-s-sousom",
+      "slug": "ostrye-kurinye-stripsy-s-sousom",
+      "image": "images/products/ostrye-kurinye-stripsy-s-sousom.jpeg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/10/ostrye-kurinye-stripsy-s-sousom.jpeg",
+      "bytes": 504854
+    },
+    "ovoschnoy-salat-s-tykvennymi-semechkami": {
+      "name": "ovoschnoy-salat-s-tykvennymi-semechkami",
+      "slug": "ovoschnoy-salat-s-tykvennymi-semechkami",
+      "image": "images/products/ovoschnoy-salat-s-tykvennymi-semechkami.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2024/11/ovoschnoy-salat.jpg",
+      "bytes": 374746
+    },
+    "panchetta": {
+      "name": "panchetta",
+      "slug": "panchetta",
+      "image": "images/products/panchetta.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/pancheta.jpg",
+      "bytes": 128773
+    },
+    "pasta-karbonara": {
+      "name": "pasta-karbonara",
+      "slug": "pasta-karbonara",
+      "image": "images/products/pasta-karbonara.jpeg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2023/01/karbonara.jpeg",
+      "bytes": 245367
+    },
+    "pasta-so-slivochnym-syrom": {
+      "name": "pasta-so-slivochnym-syrom",
+      "slug": "pasta-so-slivochnym-syrom",
+      "image": "images/products/pasta-so-slivochnym-syrom.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/pasta-so-slivochnym-syrom.jpg",
+      "bytes": 426777
+    },
+    "peperoni": {
+      "name": "peperoni",
+      "slug": "peperoni",
+      "image": "images/products/peperoni.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/pepperoni.jpg",
+      "bytes": 152803
+    },
+    "pitstsa-diablo": {
+      "name": "pitstsa-diablo",
+      "slug": "pitstsa-diablo",
+      "image": "images/products/pitstsa-diablo.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2024/06/pitstsa-diablo-1.jpg",
+      "bytes": 179129
+    },
+    "pitstsa-gavayskaya": {
+      "name": "pitstsa-gavayskaya",
+      "slug": "pitstsa-gavayskaya",
+      "image": "images/products/pitstsa-gavayskaya.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2024/06/pitstsa-gavayskaya.jpg",
+      "bytes": 192348
+    },
+    "pitstsa-karbonara": {
+      "name": "pitstsa-karbonara",
+      "slug": "pitstsa-karbonara",
+      "image": "images/products/pitstsa-karbonara.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2023/10/pitstsa-karbonara.jpg",
+      "bytes": 176911
+    },
+    "pitstsa-myasnaya": {
+      "name": "pitstsa-myasnaya",
+      "slug": "pitstsa-myasnaya",
+      "image": "images/products/pitstsa-myasnaya.jpeg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/10/pitstsa-myasnaya.jpeg",
+      "bytes": 420827
+    },
+    "pitstsa-s-indeykoy-i-bekonom": {
+      "name": "pitstsa-s-indeykoy-i-bekonom",
+      "slug": "pitstsa-s-indeykoy-i-bekonom",
+      "image": "images/products/pitstsa-s-indeykoy-i-bekonom.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/indeyka-bekon.jpg",
+      "bytes": 299579
+    },
+    "pitstsa-s-indeykoy-strachatelloy-i-pesto": {
+      "name": "pitstsa-s-indeykoy-strachatelloy-i-pesto",
+      "slug": "pitstsa-s-indeykoy-strachatelloy-i-pesto",
+      "image": "images/products/pitstsa-s-indeykoy-strachatelloy-i-pesto.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/pitstsa-s-indeykoy-strachatelloy-i-pesto.jpg",
+      "bytes": 363189
+    },
+    "pitstsa-s-moreproduktami": {
+      "name": "pitstsa-s-moreproduktami",
+      "slug": "pitstsa-s-moreproduktami",
+      "image": "images/products/pitstsa-s-moreproduktami.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/pitstsa-s-moreproduktami.jpg",
+      "bytes": 410205
+    },
+    "pitstsa-s-vetchinoy-i-syrom": {
+      "name": "pitstsa-s-vetchinoy-i-syrom",
+      "slug": "pitstsa-s-vetchinoy-i-syrom",
+      "image": "images/products/pitstsa-s-vetchinoy-i-syrom.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/pitstsa-s-vetchinoy-i-syrom.jpg",
+      "bytes": 191241
+    },
+    "pitstsa-salmon": {
+      "name": "pitstsa-salmon",
+      "slug": "pitstsa-salmon",
+      "image": "images/products/pitstsa-salmon.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/pitstsa-salmon.jpg",
+      "bytes": 391648
+    },
+    "pitstsa-tom-yam": {
+      "name": "pitstsa-tom-yam",
+      "slug": "pitstsa-tom-yam",
+      "image": "images/products/pitstsa-tom-yam.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2025/10/pitstsa-tom-yam.jpg",
+      "bytes": 175598
+    },
+    "poke-s-krevetkami": {
+      "name": "poke-s-krevetkami",
+      "slug": "poke-s-krevetkami",
+      "image": "images/products/poke-s-krevetkami.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2024/06/poke-s-krevetkami.jpg",
+      "bytes": 111570
+    },
+    "poke-s-lososem": {
+      "name": "poke-s-lososem",
+      "slug": "poke-s-lososem",
+      "image": "images/products/poke-s-lososem.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2024/06/poke-s-lososem-1.jpg",
+      "bytes": 125010
+    },
+    "pryanoe-yabloko": {
+      "name": "pryanoe-yabloko",
+      "slug": "pryanoe-yabloko",
+      "image": "images/products/pryanoe-yabloko.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2024/11/pryanoe-yabloko.jpg",
+      "bytes": 327103
+    },
+    "raf-klassicheskiy": {
+      "name": "raf-klassicheskiy",
+      "slug": "raf-klassicheskiy",
+      "image": "images/products/raf-klassicheskiy.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/raf-klassicheskiy.jpg",
+      "bytes": 247051
+    },
+    "rizotto-s-ugrem": {
+      "name": "rizotto-s-ugrem",
+      "slug": "rizotto-s-ugrem",
+      "image": "images/products/rizotto-s-ugrem.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2024/06/rizotto-s-ugrem.jpg",
+      "bytes": 155796
+    },
+    "salat-s-glazirovannoy-kuritsey": {
+      "name": "salat-s-glazirovannoy-kuritsey",
+      "slug": "salat-s-glazirovannoy-kuritsey",
+      "image": "images/products/salat-s-glazirovannoy-kuritsey.jpeg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2023/10/salat-s-glazirovannoy-kuritsey.jpeg",
+      "bytes": 100977
+    },
+    "salat-s-kinoa-lososem-i-avokado-s-aziatskoy-zapravkoy": {
+      "name": "salat-s-kinoa-lososem-i-avokado-s-aziatskoy-zapravkoy",
+      "slug": "salat-s-kinoa-lososem-i-avokado-s-aziatskoy-zapravkoy",
+      "image": "images/products/salat-s-kinoa-lososem-i-avokado-s-aziatskoy-zapravkoy.jpeg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/10/salat-s-kinoa-lososem-i-avokado-s-aziatskoy-zapravkoy.jpeg",
+      "bytes": 405038
+    },
+    "salat-s-krevetkami-i-golubym-syrom": {
+      "name": "salat-s-krevetkami-i-golubym-syrom",
+      "slug": "salat-s-krevetkami-i-golubym-syrom",
+      "image": "images/products/salat-s-krevetkami-i-golubym-syrom.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/salat-s-krevetkami-i-golubym-syrom.jpg",
+      "bytes": 436326
+    },
+    "salat-s-rostbifom-i-sousom-chimichuri": {
+      "name": "salat-s-rostbifom-i-sousom-chimichuri",
+      "slug": "salat-s-rostbifom-i-sousom-chimichuri",
+      "image": "images/products/salat-s-rostbifom-i-sousom-chimichuri.jpeg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2024/06/salat-s-rostbifom-i-sousom-chimichuri.jpeg",
+      "bytes": 233985
+    },
+    "salat-s-semgoy-i-yaytsom-pashot": {
+      "name": "salat-s-semgoy-i-yaytsom-pashot",
+      "slug": "salat-s-semgoy-i-yaytsom-pashot",
+      "image": "images/products/salat-s-semgoy-i-yaytsom-pashot.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/salat-s-semgoy-i-yaytsom-pashot-1.jpg",
+      "bytes": 144280
+    },
+    "salat-s-vyalenoy-utkoy-i-grushey": {
+      "name": "salat-s-vyalenoy-utkoy-i-grushey",
+      "slug": "salat-s-vyalenoy-utkoy-i-grushey",
+      "image": "images/products/salat-s-vyalenoy-utkoy-i-grushey.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/salat-s-vyalenoy-utkoy-i-grushey.jpg",
+      "bytes": 438050
+    },
+    "shokoladnoe-morozhenoe": {
+      "name": "shokoladnoe-morozhenoe",
+      "slug": "shokoladnoe-morozhenoe",
+      "image": "images/products/shokoladnoe-morozhenoe.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2023/02/shokoladnoe-morozhenoe.jpg",
+      "bytes": 347739
+    },
+    "skrembl-s-avokado-i-parmezanom": {
+      "name": "skrembl-s-avokado-i-parmezanom",
+      "slug": "skrembl-s-avokado-i-parmezanom",
+      "image": "images/products/skrembl-s-avokado-i-parmezanom.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/skrembel-s-avokado-i-parmezanom.jpg",
+      "bytes": 288502
+    },
+    "smuzi-zelenyy": {
+      "name": "smuzi-zelenyy",
+      "slug": "smuzi-zelenyy",
+      "image": "images/products/smuzi-zelenyy.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2025/10/zelenyy-smuzi.jpg",
+      "bytes": 88543
+    },
+    "spagetti-so-slivochnym-maslom": {
+      "name": "spagetti-so-slivochnym-maslom",
+      "slug": "spagetti-so-slivochnym-maslom",
+      "image": "images/products/spagetti-so-slivochnym-maslom.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2026/04/spagetti-so-slivochnym-maslom.jpg",
+      "bytes": 128606
+    },
+    "steyk-lososya": {
+      "name": "steyk-lososya",
+      "slug": "steyk-lososya",
+      "image": "images/products/steyk-lososya.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2024/06/steyk-lososya.jpg",
+      "bytes": 268566
+    },
+    "steyk-lososya-so-sparzhey-i-tsitrusovym-sousom": {
+      "name": "steyk-lososya-so-sparzhey-i-tsitrusovym-sousom",
+      "slug": "steyk-lososya-so-sparzhey-i-tsitrusovym-sousom",
+      "image": "images/products/steyk-lososya-so-sparzhey-i-tsitrusovym-sousom.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2024/11/steyk-lososya-so-sparzhey-i-tsitrusovym-sousom.jpg",
+      "bytes": 121179
+    },
+    "sup-iz-brokkoli": {
+      "name": "sup-iz-brokkoli",
+      "slug": "sup-iz-brokkoli",
+      "image": "images/products/sup-iz-brokkoli.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2026/04/img_7442-1.jpg",
+      "bytes": 92907
+    },
+    "svinye-rebra-s-kartofelem-po-derevenski": {
+      "name": "svinye-rebra-s-kartofelem-po-derevenski",
+      "slug": "svinye-rebra-s-kartofelem-po-derevenski",
+      "image": "images/products/svinye-rebra-s-kartofelem-po-derevenski.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/svinye-rebra-s-kartofelem-po-derevenski.jpg",
+      "bytes": 550101
+    },
+    "syrnye-palochki-s-sousom": {
+      "name": "syrnye-palochki-s-sousom",
+      "slug": "syrnye-palochki-s-sousom",
+      "image": "images/products/syrnye-palochki-s-sousom.jpeg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/10/syrnye-palochki-s-sousom.jpeg",
+      "bytes": 428180
+    },
+    "tar-tar-iz-govyadiny": {
+      "name": "tar-tar-iz-govyadiny",
+      "slug": "tar-tar-iz-govyadiny",
+      "image": "images/products/tar-tar-iz-govyadiny.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2026/04/tar-tar-iz-govyadiny.jpg",
+      "bytes": 124285
+    },
+    "tar-tar-iz-tuntsa": {
+      "name": "tar-tar-iz-tuntsa",
+      "slug": "tar-tar-iz-tuntsa",
+      "image": "images/products/tar-tar-iz-tuntsa.jpeg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2023/01/tar-tar-iz-tuntsa.jpeg",
+      "bytes": 238823
+    },
+    "tataki-iz-tuntsa": {
+      "name": "tataki-iz-tuntsa",
+      "slug": "tataki-iz-tuntsa",
+      "image": "images/products/tataki-iz-tuntsa.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2026/04/tataki-iz-tuntsa.jpg",
+      "bytes": 165598
+    },
+    "tibetskiy-chay": {
+      "name": "tibetskiy-chay",
+      "slug": "tibetskiy-chay",
+      "image": "images/products/tibetskiy-chay.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/tibetskiy-chay.jpg",
+      "bytes": 82229
+    },
+    "tom-yam": {
+      "name": "tom-yam",
+      "slug": "tom-yam",
+      "image": "images/products/tom-yam.jpeg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/10/tom-yam.jpeg",
+      "bytes": 475507
+    },
+    "tomatnyy-sup-s-brynzoy": {
+      "name": "tomatnyy-sup-s-brynzoy",
+      "slug": "tomatnyy-sup-s-brynzoy",
+      "image": "images/products/tomatnyy-sup-s-brynzoy.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/10/tomatnyy-sup-s-brynzoy.jpg",
+      "bytes": 419073
+    },
+    "tomlenye-scheki-s-molodymi-ovoschami": {
+      "name": "tomlenye-scheki-s-molodymi-ovoschami",
+      "slug": "tomlenye-scheki-s-molodymi-ovoschami",
+      "image": "images/products/tomlenye-scheki-s-molodymi-ovoschami.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2026/04/tomlenye-scheki-s-molodymi-ovoschami.jpg",
+      "bytes": 107704
+    },
+    "tomlenye-syrniki-v-belom-souse": {
+      "name": "tomlenye-syrniki-v-belom-souse",
+      "slug": "tomlenye-syrniki-v-belom-souse",
+      "image": "images/products/tomlenye-syrniki-v-belom-souse.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/tomlenye-syrniki-s-sousom.jpg",
+      "bytes": 413779
+    },
+    "travyanoy-chay": {
+      "name": "travyanoy-chay",
+      "slug": "travyanoy-chay",
+      "image": "images/products/travyanoy-chay.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/zelenyy-chay.jpg",
+      "bytes": 253881
+    },
+    "treska-s-nokkami-i-veshankami": {
+      "name": "treska-s-nokkami-i-veshankami",
+      "slug": "treska-s-nokkami-i-veshankami",
+      "image": "images/products/treska-s-nokkami-i-veshankami.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2024/06/treska-v-panirovke-s-nokkami.jpg",
+      "bytes": 211314
+    },
+    "tsezar-s-krevetkami": {
+      "name": "tsezar-s-krevetkami",
+      "slug": "tsezar-s-krevetkami",
+      "image": "images/products/tsezar-s-krevetkami.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/10/tsezar-s-krevetkami.jpg",
+      "bytes": 296122
+    },
+    "tsezar-s-kuritsey": {
+      "name": "tsezar-s-kuritsey",
+      "slug": "tsezar-s-kuritsey",
+      "image": "images/products/tsezar-s-kuritsey.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/tsezar-s-kuritsey.jpg",
+      "bytes": 441861
+    },
+    "tyoplyy-salat-s-moreproduktami": {
+      "name": "tyoplyy-salat-s-moreproduktami",
+      "slug": "tyoplyy-salat-s-moreproduktami",
+      "image": "images/products/tyoplyy-salat-s-moreproduktami.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2023/10/tyoplyy-salat-s-moreproduktami-1.jpg",
+      "bytes": 135360
+    },
+    "vanilnoe-morozhenoe": {
+      "name": "vanilnoe-morozhenoe",
+      "slug": "vanilnoe-morozhenoe",
+      "image": "images/products/vanilnoe-morozhenoe.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/vanilnoe-morozhenoe.jpg",
+      "bytes": 112764
+    },
+    "vishnya-klyukva": {
+      "name": "vishnya-klyukva",
+      "slug": "vishnya-klyukva",
+      "image": "images/products/vishnya-klyukva.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2024/11/vishnya-klyukva.jpg",
+      "bytes": 356930
+    },
+    "vitello-tonnato": {
+      "name": "vitello-tonnato",
+      "slug": "vitello-tonnato",
+      "image": "images/products/vitello-tonnato.jpeg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2023/10/vitello-tonnato.jpeg",
+      "bytes": 182269
+    },
+    "yaichnitsa-s-tomatami": {
+      "name": "yaichnitsa-s-tomatami",
+      "slug": "yaichnitsa-s-tomatami",
+      "image": "images/products/yaichnitsa-s-tomatami.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2024/11/yaichnitsa-s-pomidorom.jpg",
+      "bytes": 367862
+    },
+    "zelenyy-chay": {
+      "name": "zelenyy-chay",
+      "slug": "zelenyy-chay",
+      "image": "images/products/zelenyy-chay.jpg",
+      "source": "https://parmesan-klintsy.ru/wp-content/uploads/2022/08/zelenyy-chay.jpg",
+      "bytes": 253881
+    },
+    "greypfrut-klubnika": {
+      "name": "Грейпфрут-клубника",
+      "slug": "greypfrut-klubnika",
+      "image": "images/products/greypfrut-klubnika.jpg",
+      "source": "...",
+      "bytes": 174468
+    }
+  }
+}

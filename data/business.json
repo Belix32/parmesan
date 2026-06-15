@@ -1,0 +1,79 @@
+{
+  "name": "Пармезан",
+  "tagline": "Неаполитанская пицца из дровяной печи",
+  "description": "Пармезан — это новое уютное и стильное место в центре города Клинцы, где нужно попробовать неаполитанскую пиццу, приготовленную в дровяной печи, салаты, завтраки, горячие блюда, закуски, детские блюда.",
+  "address": {
+    "full": "Брянская обл., г. Клинцы, ул. Октябрьская, 68",
+    "city": "Клинцы",
+    "street": "ул. Октябрьская, 68"
+  },
+  "phone": "+7 (906) 505-68-58",
+  "phoneRaw": "+79065056858",
+  "hours": {
+    "label": "пн–вс 10:00–23:00",
+    "open": "10:00",
+    "close": "23:00"
+  },
+  "delivery": {
+    "from": "11:00",
+    "preorderFrom": "10:00",
+    "feeUnder2500": 200,
+    "freeFrom": 2500,
+    "zone": "г. Клинцы (без с. Займище и с. Ардонь)",
+    "outsideZone": "с. Займище и с. Ардонь — стоимость рассчитывается индивидуально"
+  },
+  "services": [
+    "delivery",
+    "booking",
+    "pickup",
+    "online-order"
+  ],
+  "orderUrl": "https://parmesan-klintsy.ru",
+  "featured": [
+    {
+      "name": "Пицца с пеперони, халапеньо и медом",
+      "category": "pizza",
+      "image": "images/hero/peperoni-halapeno-med.jpg"
+    },
+    {
+      "name": "Баклажаны с томатами и страчателлой",
+      "category": "salads",
+      "image": "images/hero/baklazhany-strachatella.jpg"
+    },
+    {
+      "name": "Свиные ребра с картофелем по-деревенски",
+      "category": "hot",
+      "image": "images/hero/svinye-rebra.jpg"
+    },
+    {
+      "name": "Суп из брокколи на кокосовом молоке",
+      "category": "soups",
+      "image": "images/hero/sup-brokkoli.jpg"
+    },
+    {
+      "name": "Скрембл с авокадо и пармезаном",
+      "category": "breakfast",
+      "image": "images/hero/skrembel-avokado.jpg"
+    },
+    {
+      "name": "Эскимо из курочки",
+      "category": "kids",
+      "image": "images/hero/eskimo-kurochka.jpg"
+    },
+    {
+      "name": "Латте",
+      "category": "drinks",
+      "image": "images/hero/latte.jpg"
+    },
+    {
+      "name": "Фетучини с индейкой и сливочным соусом",
+      "category": "pasta",
+      "image": "images/hero/fettuchini-indeyka.jpg"
+    },
+    {
+      "name": "Чай фруктовый",
+      "category": "drinks",
+      "image": "images/hero/chay-fruktovyy.jpg"
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--spacing-sm);
+  padding: 16px 40px;
+  font-family: var(--font-body);
+  font-weight: 600;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  transition: var(--transition);
+  cursor: pointer;
+  border: none;
+}
+
+.btn-primary {
+  background: var(--color-espresso);
+  color: var(--color-ivory);
+}
+
+.btn-primary:hover {
+  background: var(--color-walnut);
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-medium);
+}
+
+.btn-secondary {
+  background: transparent;
+  color: var(--color-ivory);
+  border: 1px solid rgba(255,255,255,0.35);
+}
+
+.btn-secondary:hover {
+  border-color: var(--color-gold-light);
+  color: var(--color-gold-light);
+  background: rgba(255,255,255,0.05);
+}
+
+.btn-outline {
+  background: transparent;
+  color: var(--color-espresso);
+  border: 1px solid var(--color-border-dark);
+}
+
+.btn-outline:hover {
+  border-color: var(--color-espresso);
+  background: var(--color-espresso);
+  color: var(--color-ivory);
+}
+
+.btn-gold {
+  background: var(--color-gold);
+  color: var(--color-espresso);
+}
+
+.btn-gold:hover {
+  background: var(--color-gold-light);
+  transform: translateY(-1px);
+}
+
+.btn-text {
+  background: none;
+  padding: 8px 0;
+  color: var(--color-espresso);
+  border-bottom: 1px solid var(--color-gold);
+  letter-spacing: 0.12em;
+}
+
+.btn-text:hover {
+  color: var(--color-terracotta);
+  border-color: var(--color-terracotta);
+}
+
+.card {
+  background: var(--color-bg-card);
+  transition: var(--transition);
+  border: 1px solid var(--color-border);
+}
+
+.card:hover {
+  border-color: var(--color-border-dark);
+  box-shadow: var(--shadow-soft);
+}
+
+.card-body {
+  padding: var(--spacing-xl);
+}
+
+.card-title {
+  font-family: var(--font-heading);
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: var(--spacing-xs);
+  color: var(--color-espresso);
+}
+
+.card-text {
+  color: var(--color-text-secondary);
+  font-size: 0.9rem;
+  line-height: 1.6;
+  font-weight: 400;
+}
+
+.tag {
+  display: inline-block;
+  padding: 4px 12px;
+  font-size: 0.62rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  border: 1px solid var(--color-border);
+  color: var(--color-text-secondary);
+  background: var(--color-ivory);
+}
+
+.tag.new {
+  border-color: var(--color-gold);
+  color: var(--color-gold);
+}
+
+.tag.recommended {
+  border-color: var(--color-sage);
+  color: var(--color-sage);
+}
+
+.tag.kids {
+  border-color: var(--color-terracotta-muted);
+  color: var(--color-terracotta-muted);
+}
+
+.tag.spicy {
+  border-color: var(--color-terracotta);
+  color: var(--color-terracotta);
+}
+
+.form-group {
+  margin-bottom: var(--spacing-lg);
+}
+
+.form-label {
+  display: block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  margin-bottom: var(--spacing-sm);
+  color: var(--color-text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+}
+
+.form-input,
+.form-textarea,
+.form-select {
+  width: 100%;
+  padding: 14px 0;
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid var(--color-border-dark);
+  border-radius: 0;
+  transition: var(--transition);
+  color: var(--color-text);
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+.form-input:focus,
+.form-textarea:focus,
+.form-select:focus {
+  border-bottom-color: var(--color-espresso);
+  box-shadow: none;
+}
+
+.form-textarea {
+  min-height: 100px;
+  resize: vertical;
+  padding-top: var(--spacing-md);
+}
+
+.form-input::placeholder,
+.form-textarea::placeholder {
+  color: var(--color-text-muted);
+  font-weight: 400;
+}
+
+.social-links {
+  display: flex;
+  gap: var(--spacing-md);
+}
+
+.social-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  border: 1px solid rgba(255,255,255,0.15);
+  color: rgba(255,255,255,0.7);
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  transition: var(--transition);
+}
+
+.social-link:hover {
+  border-color: var(--color-gold);
+  color: var(--color-gold);
+}
+
+.icon-mark {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border: 1px solid var(--color-border);
+  font-family: var(--font-heading);
+  font-size: 1.1rem;
+  font-style: italic;
+  color: var(--color-gold);
+  flex-shrink: 0;
+}

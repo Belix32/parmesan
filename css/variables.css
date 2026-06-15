@@ -1,0 +1,46 @@
+:root {
+  --color-ivory: #FAF7F2;
+  --color-ivory-dark: #F0EBE3;
+  --color-espresso: #1C1816;
+  --color-espresso-soft: #2D2825;
+  --color-walnut: #4A3F38;
+  --color-terracotta: #A65D45;
+  --color-terracotta-muted: #C4785E;
+  --color-gold: #B8956B;
+  --color-gold-light: #D4B896;
+  --color-sage: #6B7B6E;
+  --color-text: #2A2522;
+  --color-text-secondary: #6E6560;
+  --color-text-muted: #9C948E;
+  --color-white: #FFFFFF;
+  --color-border: #E5DDD4;
+  --color-border-dark: #D4CBC0;
+  --color-bg-card: #FFFFFF;
+  --color-overlay: rgba(28, 24, 22, 0.72);
+
+  --font-heading: 'Cormorant Garamond', 'Times New Roman', serif;
+  --font-body: 'Jost', -apple-system, BlinkMacSystemFont, sans-serif;
+
+  --shadow-soft: 0 2px 20px rgba(28, 24, 22, 0.06);
+  --shadow-medium: 0 8px 40px rgba(28, 24, 22, 0.1);
+  --shadow-deep: 0 20px 60px rgba(28, 24, 22, 0.15);
+
+  --radius-sm: 2px;
+  --radius-md: 4px;
+  --radius-lg: 8px;
+
+  --transition: 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  --transition-slow: 0.7s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+
+  --max-width: 1140px;
+  --header-height: 88px;
+
+  --spacing-xs: 4px;
+  --spacing-sm: 8px;
+  --spacing-md: 16px;
+  --spacing-lg: 24px;
+  --spacing-xl: 32px;
+  --spacing-2xl: 48px;
+  --spacing-3xl: 80px;
+  --spacing-4xl: 120px;
+}
